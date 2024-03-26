@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "esp-idf/spi_flash",
+		"source" : "E:/DATA/Espressif/frameworks/esp-idf-v5.2/components/spi_flash"
+	}
+}
